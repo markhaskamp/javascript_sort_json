@@ -6,7 +6,7 @@ var foo = {
 
 
 
-describe(foo, function() {
+describe("foo", function() {
     it("one", function() {
         expect(foo.one).toEqual("eddie would go");
     });
@@ -15,4 +15,7 @@ describe(foo, function() {
       expect(foo.two).toEqual("we excel on ice");
     });
 
+    it("life, the universe, and everything", function() {
+      expect(foo.the_answer).toEqual(42);
+    });
 });
