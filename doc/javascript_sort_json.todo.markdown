@@ -14,14 +14,13 @@
 
 ## Tasks
 
-- create github remote branch
-    - worth it?
 
 ### Doing
 
+- edit screencast
+
 ### To Do
 
-- edit screencast
 - put screencast on my posterous
 - run tests continuously
     - install guard/JasmineNode
@@ -33,6 +32,7 @@
 
 ### Done
 
+- create github remote branch
 - write javascript and tests for sorting a json variable
     - underscore
 - download jamsine
