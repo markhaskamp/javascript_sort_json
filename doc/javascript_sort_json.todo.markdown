@@ -13,14 +13,15 @@
 
 ## Tasks
 
-### Doing
+- create github remote branch
+    - worth it?
 
-- write javascript and tests for sorting a json variable
-    - underscore
+### Doing
 
 ### To Do
 
-- create github remote branch
+- edit screencast
+- put screencast on my posterous
 - run tests continuously
     - install guard/JasmineNode
     - use rvm for guard bundle
@@ -31,6 +32,8 @@
 
 ### Done
 
+- write javascript and tests for sorting a json variable
+    - underscore
 - download jamsine
     - _sudo npm install -g jasmine-node_
 - git
