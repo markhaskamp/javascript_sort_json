@@ -10,4 +10,12 @@ describe(foo, function() {
     it("one", function() {
         expect(foo.one).toEqual("eddie would go");
     });
+
+    it("two", function() {
+      expect(foo.two).toEqual("we excel on ice");
+    });
+
+    it("the_answer", function() {
+      expect(foo.the_answer).toEqual(42);
+    });
 });
