@@ -14,13 +14,19 @@
 
 ### Doing
 
-- run tests continuously
-    - use guard/JasmineNode
+- write javascript and tests for sorting a json variable
+    - underscore
 
 ### To Do
 
-- write javascript and tests
 - create github remote branch
+- run tests continuously
+    - install guard/JasmineNode
+    - use rvm for guard bundle
+        - created rvm gemset
+        - installed bundler gem
+        - created Gemfile < added guard and guard-jasmine-node
+        - ran bundle install
 
 ### Done
 

@@ -1,0 +1,56 @@
+{
+  "name": "jasmine-node",
+  "version": "1.0.21",
+  "description": "DOM-less simple JavaScript BDD testing framework for Node",
+  "homepage": [
+    "http://pivotal.github.com/jasmine",
+    "https://github.com/mhevery/jasmine-node"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mhevery/jasmine-node.git"
+  },
+  "keywords": [
+    "testing",
+    "bdd"
+  ],
+  "author": {
+    "name": "Misko Hevery",
+    "email": "misko@hevery.com"
+  },
+  "contributors": [
+    {
+      "name": "Mike Swift",
+      "email": "theycallmeswift@gmail.com",
+      "url": "http://theycallmeswift.com"
+    }
+  ],
+  "maintainers": "Martin Häger <martin.haeger@gmail.com>",
+  "licenses": [
+    "MIT"
+  ],
+  "dependencies": {
+    "coffee-script": ">=1.0.1",
+    "jasmine-reporters": "0.1.0",
+    "requirejs": ">=0.27.1",
+    "findit": ">= 0.1.2"
+  },
+  "bin": {
+    "jasmine-node": "bin/jasmine-node"
+  },
+  "main": "lib/jasmine-node",
+  "_id": "jasmine-node@1.0.21",
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  },
+  "_engineSupported": true,
+  "_npmVersion": "1.1.4",
+  "_nodeVersion": "v0.6.12",
+  "_defaultsLoaded": true,
+  "dist": {
+    "shasum": "06cb3380d83c0f1c75b90e5f71295db0975cee61"
+  },
+  "_from": "jasmine-node"
+}
