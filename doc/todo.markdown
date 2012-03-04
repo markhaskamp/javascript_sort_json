@@ -9,6 +9,7 @@
 - [jasmine](http://pivotal.github.com/jasmine/)
 - [jasmine matchers](http://pivotal.github.com/jasmine/jsdoc/symbols/jasmine.Matchers.html)
 - [jasmine-node on github](https://github.com/mhevery/jasmine-node)
+- [underscore.js](http://documentcloud.github.com/underscore/)
 
 ## Tasks
 
